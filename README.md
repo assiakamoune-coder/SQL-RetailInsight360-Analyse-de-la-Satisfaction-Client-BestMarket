@@ -123,7 +123,7 @@ Transformer les retours clients en insights exploitables pour :
 
 📄[**Expression des besoins(PDF)**](./Kamoune_Assia_expression_besoin_112025.pdf) | Cahier des charges et KPIs |
 
-📄 [**Requêtes SQL (PPT)**](./Kamoune_Assia_presentation_112025.pptx) | 17 analyses business |
+📄 [**Requêtes SQL (PPT)**](./Kamoune_ Assia_presentation_112025.pptx) | 17 analyses business |
 
 
 
